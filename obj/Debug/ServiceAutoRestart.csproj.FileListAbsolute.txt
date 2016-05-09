@@ -1,0 +1,8 @@
+C:\C#\ServiceAutoRestart\ServiceAutoRestart\bin\Debug\ServiceAutoRestart.exe.config
+C:\C#\ServiceAutoRestart\ServiceAutoRestart\bin\Debug\ServiceAutoRestart.exe
+C:\C#\ServiceAutoRestart\ServiceAutoRestart\bin\Debug\ServiceAutoRestart.pdb
+C:\C#\ServiceAutoRestart\ServiceAutoRestart\obj\Debug\ServiceAutoRestart.exe
+C:\C#\ServiceAutoRestart\ServiceAutoRestart\obj\Debug\ServiceAutoRestart.pdb
+C:\C#\ServiceAutoRestart\ServiceAutoRestart\obj\Debug\ServiceAutoRestart.ProjectInstaller.resources
+C:\C#\ServiceAutoRestart\ServiceAutoRestart\obj\Debug\ServiceAutoRestart.csproj.GenerateResource.Cache
+C:\C#\ServiceAutoRestart\ServiceAutoRestart\obj\Debug\ServiceAutoRestart.csprojResolveAssemblyReference.cache
